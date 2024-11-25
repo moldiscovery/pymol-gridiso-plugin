@@ -1,7 +1,7 @@
 #!/usr/bin/python
 version = "0.1"
 
-from Tkinter import *
+from tkinter import *
 from pymol import cmd, querying
 import Pmw
 
